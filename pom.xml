@@ -6,6 +6,7 @@
 
   <groupId>com.dw</groupId>
   <artifactId>dw2020</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>dw2020</name>
@@ -26,6 +27,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
